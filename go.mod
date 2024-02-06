@@ -1,4 +1,4 @@
-module 154.pages.dev/google
+module github.com/smit-kukadiya/google
 
 go 1.21.0
 
